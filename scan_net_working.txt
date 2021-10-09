@@ -1,0 +1,7 @@
+amsgaming.in,80
+amsgaming.in,443
+amsgaming.in,8080
+netflix.com,80
+netflix.com,443
+primevideo.com,80
+primevideo.com,443
